@@ -1,6 +1,6 @@
 ## HI!
 
-I'm a **Business Analyst/Product Owner** with 4+ years of experience in the tech industry, focusing on business process analysis, data insights, and process improvement. I specialize in translating business needs into technical solutions, managing stakeholder expectations, and delivering data-driven results.
+I'm a **Business Analyst/Product Owner** with 4+ years of experience in the tech industry, focusing on business process analysis, data insights, and product improvement. I specialize in translating business needs into technical solutions, managing stakeholder expectations, and delivering data-driven results.
 
 ### What you'll find here: 
 - **Data Pipeline Project**: A simple ETL pipeline that automates data extraction, transformation, and loading, demonstrating how to build efficient workflows. 
