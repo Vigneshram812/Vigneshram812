@@ -13,7 +13,7 @@ I'm a **Business Analyst/Product Owner** with 4+ years of experience in the tech
 ### Skills & Technologies: 
 - **Data Analysis & Visualization**: Power BI, Tableau, R 
 - **Business Process Modeling**: BPMN, UML, MS Visio 
-- **Programming & Tools**: Python, JavaScript, SQL, React Native, AWS, Microsoft Azure 
+- **Programming & Tools**: Python, JavaScript, JAVA, SQL, React Native, AWS, Microsoft Azure 
 - **Agile & Waterfall Methodologies**: Applied in requirements gathering, process improvement, and UAT 
 
 Connect with me on LinkedIn - https://www.linkedin.com/in/vignesh-ramasubramanian-45512b216/ 
